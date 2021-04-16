@@ -6,8 +6,8 @@ var car1 = "car1.png";
 var car2 = "car2.png";
 var car1_x = 10;
 var car1_y = 10;
-var car2_x = 100;
-var car2_y = 10;
+var car2_x = 10;
+var car2_y = 100;
 var background_image = "racing.jpg";
 
 function add(){
